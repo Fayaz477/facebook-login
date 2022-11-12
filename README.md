@@ -1,2 +1,2 @@
 # automatic login in facebook 
-python program to demonstrate program using excel
+by giving id and password from the excel
